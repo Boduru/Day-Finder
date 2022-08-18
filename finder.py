@@ -1,7 +1,7 @@
 """
 Python3.X Script.
 Author : Pavan Jim
-Outcome desired : Found the day that corresponds to the given date.
+Outcome desired : Find the day that corresponds to the given date.
 
 Method from:
 - https://lehollandaisvolant.net/?d=2015/05/23/17/09/56-geek-calculer-le-jour-de-la-semaine-pour-nimporte-quel-date-de-tete
