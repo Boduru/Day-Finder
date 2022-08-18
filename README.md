@@ -1,4 +1,4 @@
-# Date-Finder
+# Day-Finder
 The desired outcome desired is to find the day that corresponds to the given date.
 
 Method from: [lehollandaisvolant](https://lehollandaisvolant.net/?d=2015/05/23/17/09/56-geek-calculer-le-jour-de-la-semaine-pour-nimporte-quel-date-de-tete)
