@@ -5,7 +5,7 @@ Method from: [lehollandaisvolant](https://lehollandaisvolant.net/?d=2015/05/23/1
 
 ## Procedure
 - Check if the date is writed in the expected format
-- Check if the date can exists and if its included in the calendar
+- Check if the date can exists and included in the calendar
 - Launch the algorithm
 - Get the day
 
