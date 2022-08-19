@@ -19,4 +19,4 @@ python3 finder.py
 ```
 
 ## Other Method
-- [Days Counting](https://github.com/JimPavan/Day-Finder)
+- [Days Counting](https://github.com/JimPavan/Day-Finder-Arithmetic-Method)
