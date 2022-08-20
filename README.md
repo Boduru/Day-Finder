@@ -17,6 +17,3 @@ Run the following command:
 ```
 python3 finder.py
 ```
-
-## Other Method
-- [Days Counting](https://github.com/JimPavan/Day-Finder-Arithmetic-Method)
